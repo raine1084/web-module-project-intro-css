@@ -1,0 +1,9 @@
+.html{
+    display: flex;
+    justify-content: center;
+    color: purple;
+    width: 20%;
+}
+nav a{
+    color: beige;
+}
